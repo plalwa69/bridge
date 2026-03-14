@@ -9,3 +9,16 @@ public class a1 {
         }
     }
 }
+
+
+
+
+
+
+//docker-compose up --build
+
+
+//docker logs -f imagename
+
+
+// docker network ls
