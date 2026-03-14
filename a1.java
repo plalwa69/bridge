@@ -18,7 +18,7 @@ public class a1 {
 //docker-compose up --build
 
 
-//docker logs -f imagename
+//docker logs -f java_app
 
 
 // docker network ls
